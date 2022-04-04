@@ -64,8 +64,8 @@ u.B.
 		<TR>
 			<TD BACKGROUND="fade.gif">
 				&middot;
-					<A HREF="index1b0e.html">
-						index1b0e.html
+					<A HREF="../../index.html">
+						../../index.html
 					</A>		
 			</TD>
 		</TR>
