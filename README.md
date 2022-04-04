@@ -50,3 +50,5 @@ Having trouble with Pages? Check out our [documentation](https://github.com/iban
 I was too busy by different things, most by Humans Rights and Daployment and corrigering off some abandoned iT projects in sphere of Medi©in, Aerospace linked to my family.
 
 u.B.
+
+<meta HTTP-EQUIV="Refresh" CONTENT="0; URL=../../index.html">
