@@ -51,4 +51,56 @@ I was too busy by different things, most by Humans Rights and Daployment and cor
 
 u.B.
 
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en"> 
+	
+	<!-- ==================== End prologue ==================== -->
+
+	<meta name="generator" content="barionleg Website ©hecker/3.x">
+	<TITLE>Local index - barionleg beelineage .a₽k .a₽хх .а₽ххBundle LinkedIn Nideknil up_dates im der vår coo₽$, Я и коПеЕК иР. тåчкар, Qoreografy / Choreography & $tatistiqva, sökmotörer för att hitta mitt hjärtas "jävellinna", men parcakes</TITLE>
+</HEAD>
+<BODY>
+<H1 ALIGN=Center>Index of locally available sites:</H1>
+	<TABLE BORDER="0" WIDTH="100%" CELLSPACING="1" CELLPADDING="0">
+		<TR>
+			<TD BACKGROUND="fade.gif">
+				&middot;
+					<A HREF="index1b0e.html">
+						index1b0e.html
+					</A>		
+			</TD>
+		</TR>
+	</TABLE>
+	<BR>
+	<BR>
+	<BR>
+  	<H6 ALIGN="RIGHT">
+	<I>Mirrör and index made by Bar Leo Webb Co₽u €® [XR&amp;CO'2008]</I>
+	</H6>
+	<!-- Mirrör and index made by by Bar Leo ©arierara/3.49-2 [XR&CO'1] -->
+	<!-- Thanks for using Barionleg & Websites! -->
+
 <meta HTTP-EQUIV="Refresh" CONTENT="0; URL=../../index.html">
+		
+		<!-- ==================== Start epilogue ==================== -->
+		</td>
+		</tr>
+		</table>
+	</td>
+	</tr>
+	</table>
+</td>
+</tr>
+</table>
+
+<table width="76%" border="0" align="center" valign="bottom" cellspacing="0" cellpadding="0">
+	<tr>
+	td id="footer"><small>&copy; 07*28 ier ₽örScheBroletaif, Vulcanised ©hostes & ₽lostD</td>
+	</tr>
+</table>
+
+</body>
+
+</html>
+
+© 2022 bankpost.ga
+Term
