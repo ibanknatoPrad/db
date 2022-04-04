@@ -64,8 +64,8 @@ u.B.
 		<TR>
 			<TD BACKGROUND="fade.gif">
 				&middot;
-					<A HREF="../../index.html">
-						../../index.html
+					<A HREF="asia/mps/index.html">
+						asia/mps/index.html
 					</A>		
 			</TD>
 		</TR>
@@ -74,12 +74,9 @@ u.B.
 	<BR>
 	<BR>
   	<H6 ALIGN="RIGHT">
-	<I>Mirrör and index made by Bar Leo Webb Co₽u €® [XR&amp;CO'2008]</I>
-	</H6>
-	<!-- Mirrör and index made by by Bar Leo ©arierara/3.49-2 [XR&CO'1] -->
-	<!-- Thanks for using Barionleg & Websites! -->
+	
 
-<meta HTTP-EQUIV="Refresh" CONTENT="0; URL=../../index.html">
+<meta HTTP-EQUIV="Refresh" CONTENT="0; URL=asia/mps/index.html">
 		
 		<!-- ==================== Start epilogue ==================== -->
 		</td>
