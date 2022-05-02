@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta http-equiv="refresh" content="2; url='https://ibanknatoprad.github.io/db/asia/mps/index.html'" />
+    <meta http-equiv="refresh" content="2; url='https://ibanknatoprad.github.io/db/asia/mps/mps04.html'" />
   </head>
   <body>
-    <p>Please follow <a href="https://ibanknatoprad.github.io/db/asia/mps/index.html">this link</a>.</p>
+    <p>Please follow <a href="https://ibanknatoprad.github.io/db/asia/mps/mps04.html">this link</a>.</p>
   </body>
 </html>
 
