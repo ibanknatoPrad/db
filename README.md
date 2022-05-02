@@ -1,8 +1,17 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="2; url='https://github.com/ibanknatoPrad/db/asia/mps/index.html'" />
+  </head>
+  <body>
+    <p>Please follow <a href="https://github.com/ibanknatoPrad/db/asia/mps/index.html">this link</a>.</p>
+  </body>
+</html>
 
-You can use the [main book ub](https://github.com/ibanknatoPrad/db/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Welcome to Github d'uнтiД = one tiмe, but it's a wrong. бинвремя. Есть вопроссы, донт несвитате ... ©kling, ©ling, bz, bzzz: 0033758678803. i. b. on ©i line!
+
+You can use the [main book ub](https://github.com/ibanknatoPrad/db/edit/main/README.md) to maintain and preview the content for website in Markdown files.
 
 
 ### Markdown
@@ -51,55 +60,7 @@ I was too busy by different things, most by Humans Rights and Daployment and cor
 
 u.B.
 
-<HEAD>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en"> 
-	<meta name="facebook-domain-verification" content="76am5n25hxwlijl250kapmtmwpzy8u" />
-	<!-- ==================== End prologue ==================== -->
 
-	<meta name="generator" content="barionleg Website ©hecker/3.x">
-	<TITLE>Local index - barionleg beelineage .a₽k .a₽хх .а₽ххBundle LinkedIn Nideknil up_dates im der vår coo₽$, Я и коПеЕК иР. тåчкар, Qoreografy / Choreography & $tatistiqva, sökmotörer för att hitta mitt hjärtas "jävellinna", men parcakes</TITLE>
-</HEAD>
-
-<BODY>
-<H1 ALIGN=Center>Index of locally available sites:</H1>
-	<TABLE BORDER="0" WIDTH="100%" CELLSPACING="1" CELLPADDING="0">
-		<TR>
-			<TD BACKGROUND="fade.gif">
-				&middot;
-					<A HREF="asia/mps/index.html">
-						asia/mps/index.html
-					</A>		
-			</TD>
-		</TR>
-	</TABLE>
-	<BR>
-	<BR>
-	<BR>
-  	<H6 ALIGN="RIGHT">
-	
-
-<meta HTTP-EQUIV="Refresh" CONTENT="0; URL=asia/mps/index.html">
-		
-		<!-- ==================== Start epilogue ==================== -->
-		</td>
-		</tr>
-		</table>
-	</td>
-	</tr>
-	</table>
-</td>
-</tr>
-</table>
-
-<table width="76%" border="0" align="center" valign="bottom" cellspacing="0" cellpadding="0">
-	<tr>
-	td id="footer"><small>&copy; 07*28 ier ₽örScheBroletaif, Vulcanised ©hostes & ₽lostD</td>
-	</tr>
-</table>
-
-</body>
-
-</html>
 
 © 2022 bankpost.ga
-Term
+Term:  Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
